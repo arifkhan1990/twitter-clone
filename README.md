@@ -1,7 +1,7 @@
 # Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)
 
 
-This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.
+This is a repository for a FullStack Twitter clone tutorial using React, NextJS, Css3 & Mongodb.
 
 [VIDEO TUTORIAL](https://www.youtube.com/watch?v=ytkG7RT6SvU)
 
@@ -10,7 +10,7 @@ We are going to learn funcionalities such as:
 - Authentication system
 - Notification system
 - Image Upload using Base64 strings
-- Prisma ORM with MongoDB
+- MongoDB
 - Responsive Layout
 - 1 To Many Relations (User - Post)
 - Many To Many Relations (Post - Comment)
